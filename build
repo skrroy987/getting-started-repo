@@ -2,6 +2,8 @@
 
 echo "Hello SIS"
 
+echo "Hello Sir"
+
 java -cp HelloWorld.jar HelloWorld
 
 count=0
