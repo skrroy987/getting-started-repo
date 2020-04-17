@@ -2,7 +2,7 @@
 
 echo "Hello SIS"
 
-java -jar HelloWorld.jar
+java -cp HelloWorld.jar HelloWorld
 
 count=0
 while [ "$count" -lt 20 ]; do
