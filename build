@@ -1,6 +1,8 @@
 #!/bin/bash
 
-echo "Hello World"
+echo "Hello SIS"
+
+java -jar HelloWorld.jar
 
 count=0
 while [ "$count" -lt 20 ]; do
