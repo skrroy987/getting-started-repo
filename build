@@ -2,6 +2,8 @@
 
 echo "Hello SIS"
 
+echo "Good Afternoon"
+
 
 java -cp HelloWorld.jar HelloWorld
 
